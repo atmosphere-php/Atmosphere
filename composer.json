@@ -1,0 +1,12 @@
+{
+    "name": "atmospherephp/atmosphere",
+    "description": "The atmosphere framework for PHP.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Romano Schoonheim",
+            "email": "support@atmosphere.sh"
+        }
+    ],
+    "require": {}
+}
