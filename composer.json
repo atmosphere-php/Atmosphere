@@ -2,6 +2,7 @@
     "name": "atmospherephp/atmosphere",
     "description": "The atmosphere framework for PHP.",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Romano Schoonheim",
