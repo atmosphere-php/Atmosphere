@@ -17,5 +17,6 @@
     "require": {
         "atmospherephp/framework": "dev-master"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
