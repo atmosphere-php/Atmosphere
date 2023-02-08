@@ -9,18 +9,19 @@ it in production until the first release is out.
 # Atmosphere - PHP Framework
 
 <p align="center">
-    <a href="https://github.com/atmosphere-php/Atmosphere/actions">
-        <img alt="Tests passing" src="https://img.shields.io/badge/Tests-passing-green?style=for-the-badge&logo=github">
-    </a>
-    <a href="https://php.net">
-      <img alt="PHP 8.2" src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php">
-    </a>
+<img 
+   alt="GitHub Workflow Status" 
+   src="https://img.shields.io/github/actions/workflow/status/atmosphere-php/Atmosphere/php.yml?style=for-the-badge"
+>
+<img 
+   alt="PHP 8.2" 
+   src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php"
+>
 </p>
 
 **Join our community on [Discord](https://discord.gg/2BwfEKmv)!**
 
 Atmosphere is a application framework with expressive, elegant syntax.
-
 
 ## Features
 
