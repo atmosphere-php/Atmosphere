@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2c0e1da904e8e689d9610473bd388951",
+    "packages": [
+        {
+            "name": "atmospherephp/framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/atmosphere-php/Framework.git",
+                "reference": "9fa8457e78eb67280c3e80b328bc1249c49fdc17"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/atmosphere-php/Framework/zipball/9fa8457e78eb67280c3e80b328bc1249c49fdc17",
+                "reference": "9fa8457e78eb67280c3e80b328bc1249c49fdc17",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6.3"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Atmospherephp\\Framework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Romano Schoonheim",
+                    "email": "support@atmosphere.sh"
+                }
+            ],
+            "description": "Atmosphere framework for PHP.",
+            "support": {
+                "issues": "https://github.com/atmosphere-php/Framework/issues",
+                "source": "https://github.com/atmosphere-php/Framework/tree/master"
+            },
+            "time": "2023-02-08T12:51:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "atmospherephp/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

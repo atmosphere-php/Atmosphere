@@ -14,5 +14,8 @@
             "Services\\": "Services/"
         }
     },
-    "require": {}
+    "require": {
+        "atmospherephp/framework": "dev-master"
+    },
+    "minimum-stability": "dev"
 }
