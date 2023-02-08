@@ -1,5 +1,13 @@
+## Notice
+Atmosphere is currently in development. We are working
+towards the first release. 
+
+We discourage you from using
+it in production until the first release is out.
+
 # Atmosphere - PHP Framework
-Atmosphere is a application framework with expressive, elegant syntax. 
+Atmosphere is a application framework with expressive, elegant syntax.
+
 
 ## Installation
 Atmosphere is available via Composer. To create a new project, simply run:
