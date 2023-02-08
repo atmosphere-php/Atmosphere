@@ -1,0 +1,16 @@
+API:
+  name: api
+  directory: API
+  kind: http
+Commands:
+  name: commands
+  directory: Commands
+  kind: console
+Storage:
+  name: storage
+  directory: Storage
+  kind: http
+Website:
+  name: website
+  directory: Website
+  kind: http
