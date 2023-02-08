@@ -17,6 +17,11 @@
     "require": {
         "atmospherephp/framework": "^0.0"
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Testing\\": "Testing/"
+        }
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
