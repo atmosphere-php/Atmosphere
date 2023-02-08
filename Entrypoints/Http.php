@@ -10,3 +10,5 @@ use Atmospherephp\Framework\Foundation\Application;
 $application = new Application(
     kernel: new HttpKernel(),
 );
+
+$application->run();
