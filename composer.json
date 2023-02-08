@@ -15,7 +15,7 @@
         }
     },
     "require": {
-        "atmospherephp/framework": "dev-master"
+        "atmospherephp/framework": "^0.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
