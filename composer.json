@@ -8,5 +8,11 @@
             "email": "support@atmosphere.sh"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Processes\\": "Processes/",
+            "Services\\": "Services/"
+        }
+    },
     "require": {}
 }
